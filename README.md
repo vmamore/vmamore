@@ -1,16 +1,16 @@
 ### Hi there 👋
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-mamore-ab180b142/)
 
-<!--
-**vmamore/vmamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Backend Developer working in Campo Grande - MS, Brazil.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐧 Linux 
+- ♥️ React
+- 🤘 F# 
+- 🌌 Event Sourcing
+
+##### BIO
+
+- 🏢 I'm currently working at [**Stone**](https://www.stone.com.br/)
+- 🎓 I'm Information Systems student at [**UFMS**](https://www.facom.ufms.br/)
