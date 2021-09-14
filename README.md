@@ -3,7 +3,5 @@
 
 #### I'm a Backend Developer working in Campo Grande - MS, Brazil.
 
-##### BIO
-
 - 🏢 I'm currently working at [**Stone**](https://www.stone.com.br/)
 - 🎓 I'm Information Systems student at [**UFMS**](https://www.facom.ufms.br/)
