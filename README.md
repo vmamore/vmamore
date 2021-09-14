@@ -3,13 +3,6 @@
 
 #### I'm a Backend Developer working in Campo Grande - MS, Brazil.
 
-##### NOW
-
-- 🐧 Linux 
-- ♥️ React
-- 🤘 F# 
-- 🌌 Event Sourcing
-
 ##### BIO
 
 - 🏢 I'm currently working at [**Stone**](https://www.stone.com.br/)
